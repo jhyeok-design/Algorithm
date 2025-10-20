@@ -12,7 +12,6 @@ public class Angle {
         } else if (angle == 180) {
             answer = 4;
         }
-
         return answer;
     }
 }
